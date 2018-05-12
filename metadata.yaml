@@ -1,0 +1,25 @@
+_repo: The-life-of-Johannes-Brahms--Vol-2-of-2-_40644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, Florence
+    gutenberg_agent_id: '40867'
+    url: http://www.gutenberg.org/2009/agents/40867
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcc 'ML'
+- !lcsh 'Brahms, Johannes, 1833-1897'
+title: The Life of Johannes Brahms (Vol 2 of 2)
+url: http://www.gutenberg.org/ebooks/40644
